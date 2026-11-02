@@ -1,0 +1,11 @@
+[
+ {"vendor": "NetGuard IT Services",
+  "label": "technical_services",
+  "approved_by": "CA", "rules_version": "2026-11-02"},
+ {"vendor": "R. Iyer & Associates",
+  "label": "professional_fees",
+  "approved_by": "CA", "rules_version": "2025-04-01"},
+ {"vendor": "Ledgerly Software Solutions",
+  "label": "technical_services",
+  "approved_by": "auto", "rules_version": "2026-11-02"}
+]
